@@ -58,6 +58,9 @@ This project analyzes and models housing prices in Melbourne using multiple line
 
 | File | Description |
 |------|-------------|
+| `Melbourne_Housing_Model.R` | Complete R script — feature engineering, model fitting, selection, diagnostics, and transformations |
+| `Melbourne_housing_FULL_cleaned.csv` | Cleaned dataset (8,887 records) with price, rooms, distance, property type, and more |
+| `Melbourne_Housing_Presentation.pptx` | Final project presentation slides |
 | `project_report.pdf` | Full project report with methodology, results, and conclusions |
 | `README.md` | Project documentation |
 
